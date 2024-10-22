@@ -1,4 +1,4 @@
-﻿namespace MathGame.Data
+﻿namespace MathGame.Model
 {
     public class Box
     {
